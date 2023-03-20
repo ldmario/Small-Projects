@@ -1,5 +1,5 @@
 #### Hang man:
-* My First project. Made after Programing basics course with alot of internet research.
+* My First project.
 
 #### Pong Game:
 * Code rewriten from YouTube video for better understanding of module Turtle().
